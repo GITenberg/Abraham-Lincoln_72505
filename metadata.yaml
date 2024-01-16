@@ -1,5 +1,8 @@
 _repo: Abraham-Lincoln_72505
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72505-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Roosevelt, Theodore
@@ -25,6 +28,8 @@ description: 'Abbottsford series of readers for supplementary work.
 
   Contains addresses by Presidents Theodore Roosevelt and Woodrow Wilson, with instructions
   to the teacher and the pupil.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72505#Abraham-Lincoln
 gutenberg_issued: '2023-12-25'
 gutenberg_type: Text
 identifiers:
